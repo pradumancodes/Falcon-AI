@@ -20,7 +20,7 @@ Built with 🔥 passion and precision — just say the word, and Falcon listens.
 
 ---
 
-## 🎯 Why Falcon AI?
+🎯 Why Falcon AI?
 
 Because you deserve your own Jarvis.
 
@@ -33,14 +33,14 @@ Because you deserve your own Jarvis.
 
 ---
 
-## 🚀 Live Demo
+🚀 Live Demo
 
 > 📽️ *Coming Soon*  
 (*Demo video or gif goes here. Just record your assistant in action.*)
 
 ---
 
-## 🧠 Tech Stack
+🧠 Tech Stack
 
 | Layer | Tech |
 |-------|------|
@@ -52,7 +52,7 @@ Because you deserve your own Jarvis.
 
 ---
 
-## 📁 File Structure
+📁 File Structure
 
 Falcon-AI/
 ├── assets/ → Frontend files (HTML, CSS, JS)
@@ -67,9 +67,9 @@ Falcon-AI/
 
 ---
 
-## ⚙️ Installation & Setup
+⚙️ Installation & Setup
 
-### 1. Clone the Repo
+1. Clone the Repo
 
 ```bash
 git clone https://github.com/pradumancodes/Falcon-AI.git
@@ -98,7 +98,8 @@ python run.py
 
 🪞 Screenshots
 
-[Screenshot 2025-06-13 123323](https://github.com/user-attachments/assets/205ca076-f827-42cd-83fd-e4ab00231d85)
+![Screenshot 2025-06-13 123323](https://github.com/user-attachments/assets/81bb1857-28e2-4642-a0b6-081389c958da)
+
 
 [Screenshot 2025-06-13 123657](https://github.com/user-attachments/assets/8c76e11a-581e-4bfc-9c78-33fd6c0921dd)
 
