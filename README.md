@@ -98,7 +98,11 @@ python run.py
 
 🪞 Screenshots
 
+![Screenshot 2025-06-13 123323](https://github.com/user-attachments/assets/205ca076-f827-42cd-83fd-e4ab00231d85)
 
+![Screenshot 2025-06-13 123657](https://github.com/user-attachments/assets/8c76e11a-581e-4bfc-9c78-33fd6c0921dd)
+
+![Screenshot 2025-06-13 124055](https://github.com/user-attachments/assets/b1dcd98d-cafe-4b4b-9f79-b12c8259c3ab)
 
 
 
